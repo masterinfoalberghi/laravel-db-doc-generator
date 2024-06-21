@@ -16,7 +16,7 @@
     ],
     "require": {
         "ext-tokenizer": "*",
-        "doctrine/dbal": "",
+        "doctrine/dbal": "*",
         "illuminate/console": "v11.11.1",
         "illuminate/contracts": "v11.11.1",
         "illuminate/database": "v11.11.1",
