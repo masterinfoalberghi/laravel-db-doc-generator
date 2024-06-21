@@ -17,13 +17,13 @@
     "require": {
         "ext-tokenizer": "*",
         "doctrine/dbal": "*",
-        "illuminate/console": "^5.5|^6|^7",
-        "illuminate/contracts": "^5.5|^6|^7",
-        "illuminate/database": "^5.5|^6|^7",
-        "illuminate/http": "^5.5|^6|^7",
-        "illuminate/pagination": "^5.5|^6|^7",
-        "illuminate/support": "^5.5|^6|^7",
-        "illuminate/view": "^5.5|^6|^7"
+        "illuminate/console": "*",
+        "illuminate/contracts": "*",
+        "illuminate/database": "*",
+        "illuminate/http": "*",
+        "illuminate/pagination": "*",
+        "illuminate/support": "*",
+        "illuminate/view": "*"
     },
     "autoload": {
         "psr-4": {
