@@ -16,7 +16,14 @@
     ],
     "require": {
         "ext-tokenizer": "*",
-        "doctrine/dbal": "*"
+        "doctrine/dbal": "5.0.x-dev",
+        "illuminate/console": "v11.11.1",
+        "illuminate/contracts": "v11.11.1",
+        "illuminate/database": "v11.11.1",
+        "illuminate/http": "v11.11.1",
+        "illuminate/pagination": "v11.11.1",
+        "illuminate/support": "v11.11.1",
+        "illuminate/view": "v11.11.1"
     },
     "autoload": {
         "psr-4": {
