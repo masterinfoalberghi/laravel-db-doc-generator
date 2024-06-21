@@ -17,13 +17,6 @@
     "require": {
         "ext-tokenizer": "*",
         "doctrine/dbal": "*",
-        "illuminate/console": "*",
-        "illuminate/contracts": "*",
-        "illuminate/database": "*",
-        "illuminate/http": "*",
-        "illuminate/pagination": "*",
-        "illuminate/support": "*",
-        "illuminate/view": "*"
     },
     "autoload": {
         "psr-4": {
