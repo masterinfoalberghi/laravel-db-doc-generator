@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Churakovmike/laravel-db-doc-generator.git"
+    "url": "git+https://github.com/masterinfoalberghi/laravel-db-doc-generator.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Churakovmike/laravel-db-doc-generator/issues"
+    "url": "https://github.com/masterinfoalberghi/laravel-db-doc-generator/issues"
   },
-  "homepage": "https://github.com/Churakovmike/laravel-db-doc-generator#readme",
+  "homepage": "https://github.com/masterinfoalberghi/laravel-db-doc-generator#readme",
   "dependencies": {
     "vue": "^2.6.11"
   },
