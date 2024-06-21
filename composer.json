@@ -1,5 +1,5 @@
 {
-    "name": "churakovmike/laravel-db-doc-generator",
+    "name": "masterinfoalberghi/laravel-db-doc-generator",
     "type": "library",
     "description": "Database documentation generator for laravel",
     "keywords": [
